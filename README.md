@@ -11,13 +11,19 @@ Release stage: Coding api: 0%
 
 Todo list:
 1) API
-  1.1) API docs
-  1.2) API
+
+  1.1 API docs
+  
+  1.2 API
+  
 2) ServerSide script
-  2.1) Real chat repeater
-  2.2) CONFIGURATION
-4) Server ID Detecting
-5) Client GUI app
-6) Image sending
-7) Filter bypass
-8) Exe File
+
+  2.1 Real chat repeater
+  
+  2.2 CONFIGURATION
+  
+3) Server ID Detecting
+4) Client GUI app
+5) Image sending
+6) Filter bypass
+7) Exe File
